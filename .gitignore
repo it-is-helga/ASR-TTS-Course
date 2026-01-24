@@ -1,0 +1,12 @@
+# Python virtual environments
+venv/
+.sb_env/
+.sbrain/
+sb_env_old/
+.env/
+.venv/
+pretrained_models/
+
+
+############# git rm -r --cached .sbrain/
+# git commit -m "Stop tracking virtual environment"
