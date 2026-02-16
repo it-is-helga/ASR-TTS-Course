@@ -6,6 +6,7 @@ sb_env_old/
 .env/
 .venv/
 pretrained_models/
+*.pt
 
 
 ############# git rm -r --cached .sbrain/
